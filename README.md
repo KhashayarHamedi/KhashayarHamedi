@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.avif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/kash-hamedi/kash-hamedi/main/assets/banner.avif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Khashayar 👋</h1>
@@ -19,4 +19,4 @@
 
 ---
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/your-profile) or [email](mailto:your@email.com)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kash-hamedi/)
