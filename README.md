@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kash-hamedi/kash-hamedi/main/assets/banner.avif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/KhashayarHamedi/KhashayarHamedi/main/photo-1451187580459-43490279c0fa.avif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Khashayar 👋</h1>
